@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "battery_monitor": {
+      "$device_id": {
+        ".read": true,
+        ".write": true
+      }
+    }
+  }
+}
