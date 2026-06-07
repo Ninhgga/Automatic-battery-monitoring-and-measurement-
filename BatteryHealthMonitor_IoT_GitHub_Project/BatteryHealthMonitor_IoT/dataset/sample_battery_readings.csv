@@ -1,9 +1,0 @@
-timestamp,device_id,voltage_v,current_ma,power_w,temperature_c,battery_percent,risk_level,relay_enabled
-2026-06-07T10:00:00,device_001,4.15,125.4,0.520,31.2,95.0,NORMAL,true
-2026-06-07T10:00:05,device_001,4.08,132.1,0.539,31.4,88.0,NORMAL,true
-2026-06-07T10:00:10,device_001,3.94,146.5,0.577,32.0,74.0,NORMAL,true
-2026-06-07T10:00:15,device_001,3.78,151.2,0.572,33.1,58.0,NORMAL,true
-2026-06-07T10:00:20,device_001,3.62,160.8,0.582,35.4,42.0,WARNING,true
-2026-06-07T10:00:25,device_001,3.50,171.3,0.600,38.7,30.0,WARNING,true
-2026-06-07T10:00:30,device_001,3.36,180.2,0.606,42.5,16.0,CRITICAL,false
-2026-06-07T10:00:35,device_001,3.72,155.9,0.580,51.4,52.0,CRITICAL,false
