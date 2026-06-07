@@ -1,0 +1,9 @@
+[project]
+name = "battery-health-monitor-iot"
+version = "0.1.0"
+description = "IoT battery health monitoring dataset tools"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas",
+    "matplotlib"
+]
